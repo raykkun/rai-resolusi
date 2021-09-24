@@ -3,3 +3,4 @@ Rai Resolusi
 - konsisten belajar laravel
 - konsisten belajar javascript
 - konsisten belajar python
+- konsisten belajar react
